@@ -20,5 +20,12 @@
 		"location": "Valletta",
 		"date": "1st of Jan",
 		"time": "12:00"
+	}], {
+		"id": 4,
+		"title": "Task 4",
+		"descreption": "Just finished Task 3",
+		"location": "Location: I am better vil",
+		"date": "today cause im that good",
+		"time": "Time: At your mums house"
 	}]
 }
